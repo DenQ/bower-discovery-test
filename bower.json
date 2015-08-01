@@ -1,0 +1,27 @@
+{
+  "name": "bower-discovery-test",
+  "version": "0.0.1",
+  "homepage": "https://github.com/DenQ/bower-discovery-test",
+  "authors": [
+    "DenQ <denquick@gmail.com>"
+  ],
+  "description": "bower descovery test",
+  "main": "dist/main.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "test",
+    "discovery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    ".idea",
+    ".gitignore",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
